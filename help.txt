@@ -1,0 +1,17 @@
+Here is the commands and their explainations:
+
+**translate** *src* *dest* *text*: Translates the text given using Google Translate API, in future you will be able to choose API that you want to use
+
+**langcode** *language*: You must use language codes in *translate* and *whatis* command. If you don't know the code of any language just use this command. Please make sure that you type your language in English
+
+**lyrics** *song*: Lyrics command gives the lyrics of song given using Genius API.
+
+**whatis** *langcode* *title*: What is command gives the summary text of the title given from Wikipedia API. Due to embed length client trims sentences from the end.
+
+**gif** *keywords*: Displays a random gif that related with keywords. 
+
+**remind** *number* *seconds/hours/days/minutes*: Sends a DM message after the time that you given.
+
+**invite**: Sends the invite link of bot
+
+**source**: Sends the github source code link of bot, you can display,fork and download codes.
