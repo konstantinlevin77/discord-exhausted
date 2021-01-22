@@ -2,6 +2,8 @@
 Discord bot written in Python using discord.py. Hello community, welcome to this repository. Nowadays I was interested in building bots and I've wanted to build a bot using my 
 native language, Python. I've checked all the options and decided to use discord.py
 
+Before showing commands, I want to give the invite link. [Invite to your guild!](https://discord.com/oauth2/authorize?client_id=801477829790662696&permissions=8&scope=bot)
+
 There are eight commands:
 
 **Translate**: This command translates the text given using unofficial google translate api. 
