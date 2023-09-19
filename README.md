@@ -1,4 +1,7 @@
 # discord-exhausted
+
+## Deprecated: I'm not working on this anymore, so this may be highly outdated. 
+
 Discord bot written in Python using discord.py. Hello community, welcome to this repository. Nowadays I was interested in building bots and I've wanted to build a bot using my 
 native language, Python. I've checked all the options and decided to use discord.py
 
